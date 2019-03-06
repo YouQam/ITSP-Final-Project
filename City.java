@@ -1,3 +1,5 @@
+import shapes.Point;
+
 public class City{
 	
 	private String name;
